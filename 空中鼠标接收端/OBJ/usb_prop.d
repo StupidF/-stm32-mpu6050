@@ -1,0 +1,14 @@
+..\OBJ\usb_prop.o: ..\USB\CONFIG\usb_prop.c
+..\OBJ\usb_prop.o: ..\USB\LIB\usb_lib.h
+..\OBJ\usb_prop.o: ..\USB\LIB\usb_type.h
+..\OBJ\usb_prop.o: ..\USB\CONFIG\usb_conf.h
+..\OBJ\usb_prop.o: ..\USB\LIB\usb_regs.h
+..\OBJ\usb_prop.o: ..\USB\LIB\usb_def.h
+..\OBJ\usb_prop.o: ..\USB\LIB\usb_core.h
+..\OBJ\usb_prop.o: ..\USB\LIB\usb_init.h
+..\OBJ\usb_prop.o: ..\USB\LIB\usb_mem.h
+..\OBJ\usb_prop.o: ..\USB\LIB\usb_int.h
+..\OBJ\usb_prop.o: ..\USB\CONFIG\usb_prop.h
+..\OBJ\usb_prop.o: ..\USB\CONFIG\usb_desc.h
+..\OBJ\usb_prop.o: ..\USB\CONFIG\usb_pwr.h
+..\OBJ\usb_prop.o: ..\USB\CONFIG\hw_config.h

@@ -1,0 +1,10 @@
+..\OBJ\usb_core.o: ..\USB\LIB\usb_core.c
+..\OBJ\usb_core.o: ..\USB\LIB\usb_lib.h
+..\OBJ\usb_core.o: ..\USB\LIB\usb_type.h
+..\OBJ\usb_core.o: ..\USB\CONFIG\usb_conf.h
+..\OBJ\usb_core.o: ..\USB\LIB\usb_regs.h
+..\OBJ\usb_core.o: ..\USB\LIB\usb_def.h
+..\OBJ\usb_core.o: ..\USB\LIB\usb_core.h
+..\OBJ\usb_core.o: ..\USB\LIB\usb_init.h
+..\OBJ\usb_core.o: ..\USB\LIB\usb_mem.h
+..\OBJ\usb_core.o: ..\USB\LIB\usb_int.h
